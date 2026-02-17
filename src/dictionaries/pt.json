@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "title": "SixGreen — Suplemento Natural Premium | Grupo Six",
+    "description": "Desperte sua vitalidade com SixGreen. Blend premium de superalimentos, adaptógenos e extratos naturais desenvolvido pela Grupo Six."
+  },
+  "nav": {
+    "home": "Início",
+    "benefits": "Benefícios",
+    "plans": "Planos",
+    "testimonials": "Depoimentos",
+    "switchLang": "EN",
+    "switchLangLabel": "Switch to English"
+  },
+  "hero": {
+    "badge": "100% Natural · Desenvolvido pela Grupo Six",
+    "title": "Desperte o Potencial",
+    "highlight": "Natural do Seu Corpo",
+    "subtitle": "SixGreen é o blend premium de superalimentos e adaptógenos que transforma sua energia, imunidade e bem-estar — em apenas uma dose por dia.",
+    "cta": "Quero Experimentar Agora",
+    "trust": "+12.000 clientes satisfeitos",
+    "trustedBy": "Confiado por profissionais de saúde"
+  },
+  "video": {
+    "sectionTitle": "Assista e Descubra",
+    "title": "Como SixGreen Revoluciona Sua Saúde",
+    "subtitle": "Descubra a ciência por trás do suplemento natural mais completo do mercado.",
+    "label": "Reproduzir vídeo de apresentação"
+  },
+  "benefits": {
+    "title": "Por Que Escolher SixGreen?",
+    "subtitle": "6 pilares da transformação que você vai sentir nas primeiras semanas",
+    "items": [
+      {
+        "title": "Energia Sustentável",
+        "description": "Sem picos de cafeína. Energia constante com Ashwagandha e Rhodiola."
+      },
+      {
+        "title": "Imunidade Reforçada",
+        "description": "Vitamina C, Zinco e Própolis verde fortalecem suas defesas naturais."
+      },
+      {
+        "title": "Digestão Equilibrada",
+        "description": "Probióticos e fibras prebióticas restauram sua flora intestinal."
+      },
+      {
+        "title": "Clareza Mental",
+        "description": "Lion's Mane e Ginkgo Biloba para foco e memória sem nervosismo."
+      },
+      {
+        "title": "Recuperação Acelerada",
+        "description": "Curcumina e Spirulina com ação anti-inflamatória poderosa."
+      },
+      {
+        "title": "Sono Reparador",
+        "description": "Magnésio bisglicinato e L-Teanina para descanso profundo."
+      }
+    ]
+  },
+  "products": {
+    "title": "Escolha Seu Kit",
+    "subtitle": "Quanto mais você leva, mais economiza. Todos os kits com frete grátis.",
+    "guarantee": "Garantia de 30 dias ou seu dinheiro de volta",
+    "popular": "Mais Vendido",
+    "bestValue": "Melhor Custo",
+    "cta": "Comprar Agora",
+    "items": [
+      {
+        "id": "1pack",
+        "name": "Kit Inicial",
+        "description": "1 pote — Suprimento para 1 mês",
+        "originalPrice": "R$ 297",
+        "currentPrice": "R$ 197",
+        "savings": "Economize R$ 100",
+        "features": [
+          "1 pote de SixGreen (30 doses)",
+          "E-book: Guia de Alimentação Natural",
+          "Acesso ao grupo exclusivo",
+          "Frete grátis"
+        ]
+      },
+      {
+        "id": "3pack",
+        "name": "Kit Transformação",
+        "description": "3 potes — Suprimento para 3 meses",
+        "originalPrice": "R$ 891",
+        "currentPrice": "R$ 397",
+        "savings": "Economize R$ 494",
+        "tag": "popular",
+        "features": [
+          "3 potes de SixGreen (90 doses)",
+          "E-book: Guia de Alimentação Natural",
+          "Acesso ao grupo exclusivo",
+          "Consulta nutricional online",
+          "Bônus: Receitas Detox",
+          "Frete grátis"
+        ]
+      },
+      {
+        "id": "6pack",
+        "name": "Kit Vitalidade Total",
+        "description": "6 potes — Suprimento para 6 meses",
+        "originalPrice": "R$ 1.782",
+        "currentPrice": "R$ 597",
+        "savings": "Economize R$ 1.185",
+        "tag": "bestValue",
+        "features": [
+          "6 potes de SixGreen (180 doses)",
+          "E-book: Guia de Alimentação Natural",
+          "Acesso ao grupo exclusivo",
+          "Consulta nutricional online",
+          "Bônus: Receitas Detox",
+          "Bônus: Plano de Treino em Casa",
+          "Bônus: Meditações Guiadas",
+          "Frete grátis"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Transformações Reais",
+    "subtitle": "Veja o que nossos clientes estão dizendo",
+    "items": [
+      {
+        "name": "Mariana Costa",
+        "initials": "MC",
+        "location": "São Paulo, SP",
+        "text": "Em duas semanas já senti diferença na disposição. Acordo com energia e não tenho mais aquela fadiga no meio da tarde.",
+        "result": "Energia triplicada em 14 dias"
+      },
+      {
+        "name": "Dr. Rafael Mendes",
+        "initials": "RM",
+        "location": "Rio de Janeiro, RJ",
+        "text": "Como médico, sou cético com suplementos. Mas a formulação do SixGreen é séria. Ingredientes de qualidade, dosagens corretas.",
+        "result": "Aprovado por profissional de saúde"
+      },
+      {
+        "name": "Ana Luísa Ferreira",
+        "initials": "AF",
+        "location": "Belo Horizonte, MG",
+        "text": "Minha imunidade era péssima, vivia gripada. Depois de 3 meses com SixGreen, não peguei mais nenhum resfriado.",
+        "result": "3 meses sem ficar doente"
+      },
+      {
+        "name": "Pedro Henrique Silva",
+        "initials": "PS",
+        "location": "Curitiba, PR",
+        "text": "O foco mental que ganhei é surreal. Trabalho com programação e a diferença na concentração é nítida. Durmo muito melhor também.",
+        "result": "Foco e sono transformados"
+      }
+    ]
+  },
+  "urgency": {
+    "title": "Oferta Por Tempo Limitado",
+    "subtitle": "Os preços promocionais acabam quando o timer zerar.",
+    "cta": "Garantir Minha Oferta",
+    "hours": "h",
+    "minutes": "min",
+    "seconds": "seg",
+    "stock": "Restam apenas 23 unidades em estoque"
+  },
+  "footer": {
+    "disclaimer": "Este produto não é um medicamento e não substitui orientação médica. Os resultados podem variar. As declarações não foram avaliadas pela ANVISA. Consulte um profissional de saúde.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Uso",
+    "rights": "Todos os direitos reservados.",
+    "brand": "Grupo Six"
+  },
+  "checkout": {
+    "title": "Finalizar Compra",
+    "subtitle": "Pagamento seguro via PIX — Aprovação instantânea",
+    "orderSummary": "Resumo do Pedido",
+    "total": "Total",
+    "pix": {
+      "title": "Pague com PIX",
+      "instructions": "Escaneie o QR Code ou copie o código PIX para realizar o pagamento.",
+      "copyCode": "Copiar Código PIX",
+      "copied": "Copiado!"
+    },
+    "finalize": "Confirmar Pagamento",
+    "secure": "Pagamento 100% seguro e criptografado",
+    "back": "Voltar para a loja"
+  },
+  "thankyou": {
+    "title": "Compra Confirmada!",
+    "subtitle": "Obrigado pela sua confiança. Seu SixGreen será enviado em até 2 dias úteis. Verifique seu e-mail para acompanhar o pedido.",
+    "utmTitle": "Dados de rastreamento (UTM)",
+    "back": "Voltar para a página inicial"
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última atualização: fevereiro de 2026.",
+    "sections": [
+      { "title": "1. Informações Coletadas", "content": "A Grupo Six coleta informações pessoais fornecidas voluntariamente, como nome, e-mail e dados de pagamento. Também coletamos dados de navegação por meio de cookies." },
+      { "title": "2. Uso das Informações", "content": "Utilizamos suas informações para processar pedidos, enviar conteúdos, melhorar nossos serviços e personalizar sua experiência." },
+      { "title": "3. Compartilhamento de Dados", "content": "Não vendemos suas informações pessoais. Compartilhamos apenas com processadores de pagamento e quando exigido por lei." },
+      { "title": "4. Cookies e Rastreamento", "content": "Utilizamos cookies e parâmetros UTM para análise de marketing. Dados são armazenados temporariamente na sessão do navegador." },
+      { "title": "5. Seus Direitos (LGPD)", "content": "Você tem direito a acessar, corrigir, excluir ou solicitar portabilidade de seus dados. Contato: contato@gruposix.com.br." },
+      { "title": "6. Segurança", "content": "Adotamos medidas técnicas e organizacionais para proteger seus dados contra acesso não autorizado." }
+    ]
+  },
+  "terms": {
+    "title": "Termos de Uso",
+    "lastUpdated": "Última atualização: fevereiro de 2026.",
+    "sections": [
+      { "title": "1. Aceitação dos Termos", "content": "Ao utilizar o site da Grupo Six, você concorda com estes Termos de Uso e nossa Política de Privacidade." },
+      { "title": "2. Produtos", "content": "Os produtos da Grupo Six são suplementos alimentares naturais. Não são medicamentos e não substituem orientação médica." },
+      { "title": "3. Resultados", "content": "Depoimentos são individuais e não garantem resultados. Resultados variam de pessoa para pessoa." },
+      { "title": "4. Garantia e Reembolso", "content": "Garantia de 30 dias. Solicite reembolso integral dentro do prazo se não estiver satisfeito." },
+      { "title": "5. Propriedade Intelectual", "content": "Todo conteúdo é protegido por direitos autorais da Grupo Six." },
+      { "title": "6. Responsabilidade", "content": "A Grupo Six não se responsabiliza por efeitos adversos sem orientação profissional." }
+    ]
+  }
+}
